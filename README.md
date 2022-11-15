@@ -7,7 +7,7 @@
 
 ### Skill set
 
-* C# (studing)
+* C#
 * C/C++
 * Python
 * HTML
