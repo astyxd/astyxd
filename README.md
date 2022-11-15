@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2>Welcome</h2>
+<h3>What Im and doing</h3>
+<ul>
+  <li>I'm currently searching for a job or an internship.</li>
+</ul>
 
-<!--
-**astyxd/astyxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<h3>Skill set</h3>
+<ul>
+  <li>C# (studying)</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <a href="https://github.com/astyxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astyxd&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astyxd&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+</div>
