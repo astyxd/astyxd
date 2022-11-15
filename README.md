@@ -1,21 +1,31 @@
-<h2>Welcome</h2>
-<h3>What am I doing</h3>
-<ul>
-  <li>I'm currently searching for a job or an internship.</li>
-  <li>Studying Systems Analysis and Development - UVA</li>
-</ul>
+## Welcome
 
-##
+### What am I doing
 
-<h3>Skill set</h3>
-<ul>
-  <li>C# (studying)</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-<div align="center">
-  <a href="https://github.com/astyxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astyxd&layout=compact&langs_count=7&theme=light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astyxd&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
+- I'm currently looking for a job or an internship.
+- Studying Analysis and Systems Development - UVA
+
+### Skill set
+
+* C# (studing)
+* C/C++
+* Python
+* HTML
+* CSS
+* JavaScript
+
+<p align="center">
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=astyxd&layout=compact"
+    />
+  </a>
+  <a>
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=astyxd&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
