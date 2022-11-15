@@ -1,5 +1,5 @@
 <h2>Welcome</h2>
-<h3>What Im and doing</h3>
+<h3>What am I doing</h3>
 <ul>
   <li>I'm currently searching for a job or an internship.</li>
   <li>Studying Systems Analysis and Development - UVA</li>
