@@ -24,7 +24,7 @@
   <a href="https://github.com/astyxd">
     <img
       align="center"
-      height="300"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=astyxd&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
