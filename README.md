@@ -18,7 +18,6 @@
   <a href="https://github.com/astyxd">
     <img
       align="center"
-      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=astyxd&layout=compact"
     />
   </a>
