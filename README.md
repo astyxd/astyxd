@@ -2,6 +2,7 @@
 <h3>What Im and doing</h3>
 <ul>
   <li>I'm currently searching for a job or an internship.</li>
+  <li>Studying Systems Analysis and Development - UVA</li>
 </ul>
 
 ##
