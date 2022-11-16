@@ -8,7 +8,6 @@
 ### Skill set
 
 * C#
-* C/C++
 * Python
 * HTML
 * CSS
