@@ -2,8 +2,7 @@
 
 ### What am I doing
 
-- I'm currently looking for a job or an internship.
-- Studying Analysis and Systems Development - UVA
+- I'm currently looking for a job.
 
 ### Skill set
 
